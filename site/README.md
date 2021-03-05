@@ -15,3 +15,21 @@ Instalar o react e o next [https://nextjs.org/docs/getting-started](https://next
 
 Rodar o projeto
 ### npm run dev
+
+Abrir o projeto endereço padrão
+[http://localhost:3000](http://localhost:3000)
+
+Pausar o servidro
+### Ctrl + C
+
+Instalar o Bootstrap
+### npm install --save bootstrap
+
+Instalar o ReactStrap
+### npm install --save reactstrap react react-dom
+
+Instalar a biblioteca de ícone
+### npm i --save @fortawesome/fontawesome-svg-core
+### npm install --save @fortawesome/free-solid-svg-icons
+### npm install --save @fortawesome/react-fontawesome
+
